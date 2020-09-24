@@ -1,0 +1,15 @@
+C:\pleiades\workspace\recommendedDrama\src\la\servlet\AddDramaServlet.java
+C:\pleiades\workspace\recommendedDrama\src\la\servlet\PointServlet.java
+C:\pleiades\workspace\recommendedDrama\src\la\servlet\DeleteDramaServlet.java
+C:\pleiades\workspace\recommendedDrama\src\la\servlet\ChangeDramaServlet.java
+C:\pleiades\workspace\recommendedDrama\src\la\bean\ShowDramaListBean.java
+C:\pleiades\workspace\recommendedDrama\src\la\bean\QuestionPointBean.java
+C:\pleiades\workspace\recommendedDrama\src\la\dao\PointDAO.java
+C:\pleiades\workspace\recommendedDrama\src\la\bean\CodePointBean.java
+C:\pleiades\workspace\recommendedDrama\src\la\dao\QuestionDAO.java
+C:\pleiades\workspace\recommendedDrama\src\la\bean\QuestionBean.java
+C:\pleiades\workspace\recommendedDrama\src\la\dao\DAOException.java
+C:\pleiades\workspace\recommendedDrama\src\la\dao\DeleteChangeAddDAO.java
+C:\pleiades\workspace\recommendedDrama\src\la\bean\DramaInfoBean.java
+C:\pleiades\workspace\recommendedDrama\src\la\servlet\QuestionServlet.java
+C:\pleiades\workspace\recommendedDrama\src\la\servlet\ShowDramaServlet.java
